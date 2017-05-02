@@ -1,2 +1,2 @@
-# R-exercises
-Exercises with R for Udacity Nanodegree
+# R Exercises
+Exercises built in R for Udacity Nanodegree
